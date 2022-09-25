@@ -1,3 +1,10 @@
+## This ode will install and use the following packages: data.table, reshape2, and DT.
+## It then goes through and pulls all the labels, and data together, while only grabbing the means and standard deviations of the variables.
+## Once it pulls it all in, it combines the two sets into one.
+## Test and Train added together to become what I save as tidy_dataset.txt
+## It will then save the file display the table.
+
+
 ## Variable descriptions
 ## Subject - the subject ID of the individual being looked at
 ## Activity_Label - the activity that is being looked at
