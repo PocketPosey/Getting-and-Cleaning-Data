@@ -1,0 +1,23 @@
+## Variable descriptions
+## Subject - the subject ID of the individual being looked at
+## Activity_Label - the activity that is being looked at
+## Body Mean X
+## Body Mean y
+## Body Std X
+## Body Std y
+## Gravity Mean X
+## Gravity Mean y
+## Gravity Std X
+## Gravity Std y
+## Body Jerk Mean X
+## Body Jerk Mean y
+## Body Jerk Std X
+## Body Jerk Std y
+## Body Gyro Mean X
+## Body Gyro Mean y
+## Body Gyro Std X
+## Body Gyro Std y
+## Body Gyro Jerk Mean X
+## Body Gyro Jerk Mean y
+## Body Gyro Jerk Std X
+## Body Gyro Jerk Std y
